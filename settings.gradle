@@ -1,0 +1,2 @@
+rootProject.name = "Emovs"
+include ':app'
